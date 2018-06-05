@@ -1,0 +1,418 @@
+[33mcommit 459c7d59504bf471a4f2fc53b7cdbce7b8c9b78a[m
+Author: appliedFinance <atlusr@yahoo.com>
+Date:   Tue Jun 5 00:02:41 2018 -0400
+
+    Added  test-recipes.js
+
+[33mcommit 8f7fc5e1d5323f296b3db3d7008055e1f128a6de[m
+Merge: d704680 59cfaf4
+Author: Chris Klanac <cklanac@users.noreply.github.com>
+Date:   Wed Jan 31 12:02:04 2018 -0600
+
+    Merge pull request #8 from Thinkful-Ed/cklanac-patch-1
+    
+    Delete .travis.yml
+
+[33mcommit d704680dc637429980baf43b42e3c62d0db6e8c8[m
+Merge: c33c239 5843932
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Fri Jan 5 19:05:05 2018 -0500
+
+    Merge pull request #22 from tsongas/chai
+    
+    Chai
+
+[33mcommit 5843932e0ca16dd2bb5119ed6bfccc219baa0cbd[m
+Author: Chris Tsongas <chris.tsongas@gmail.com>
+Date:   Thu Jan 4 03:47:25 2018 +0000
+
+    check updated item returned by put, add missing semicolons
+
+[33mcommit 3c6658dcc1eb40f386ff723d20eebe26e239f17a[m
+Author: Chris Tsongas <chris.tsongas@gmail.com>
+Date:   Wed Jan 3 21:13:01 2018 +0000
+
+    change should to expect
+
+[33mcommit 350eb2bd74ff6dc8afae304b3cf3c3a62ac230bb[m
+Author: Chris Tsongas <chris.tsongas@gmail.com>
+Date:   Wed Jan 3 19:20:59 2018 +0000
+
+    remove superfluous path
+
+[33mcommit c33c239e1097029b9d25a79b04d7403557aa6cbb[m
+Merge: 6a46378 09d9eb6
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Tue Dec 5 19:40:07 2017 -0500
+
+    Merge pull request #21 from tsongas/mocha-update
+    
+    mocha version bump
+
+[33mcommit 09d9eb644fc1c4339beaaca188721a0bd60eae88[m
+Author: Chris Tsongas <chris.tsongas@gmail.com>
+Date:   Tue Dec 5 22:04:43 2017 +0000
+
+    mocha version bump
+
+[33mcommit 6a46378af6ec8a6f85e0ec43bb5b153d3515c052[m
+Merge: 73b7c90 2248435
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Tue Dec 5 16:36:36 2017 -0500
+
+    Merge pull request #20 from tsongas/mocha-update
+    
+    exit mocha so travis deploys
+
+[33mcommit 2248435c10467fd805c6d0b9098baf9400eb7628[m
+Author: Chris Tsongas <chris.tsongas@gmail.com>
+Date:   Tue Dec 5 19:39:31 2017 +0000
+
+    exit mocha so travis deploys
+
+[33mcommit 73b7c90ff2f8cbccf96c8d0251980e6d960aee07[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Thu Sep 7 16:10:56 2017 -0400
+
+    Don't check for 200
+
+[33mcommit a33e4fce265eb786365bde1b39d6a8b122af9697[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Thu Sep 7 16:08:39 2017 -0400
+
+    Don't return object
+
+[33mcommit efbfdf41f3038efc8081761a460c9e6216cdcc60[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Thu Sep 7 16:08:00 2017 -0400
+
+    204 and don't return object
+
+[33mcommit 7198cedf202c48d1fec233dffec368fea624a804[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Wed Aug 16 17:03:35 2017 -0400
+
+    Delete .travis.yml
+
+[33mcommit 59cfaf4e48d5093770cf2f53049fda57f5f3a7ec[m
+Author: Chris Klanac <cklanac@users.noreply.github.com>
+Date:   Fri May 26 12:57:39 2017 -0400
+
+    Delete .travis.yml
+
+[33mcommit dc0875fa73d64dc32c25d99dd34b6771bb480935[m
+Merge: 5bc770a 4df6ccf
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Wed Mar 8 09:38:18 2017 -0500
+
+    Merge pull request #4 from Rosuav/patch-1
+    
+    Deduplicate runServer()
+
+[33mcommit 4df6ccf9a4b1de9ba2ef70bd214649231a0f1bc5[m
+Author: Chris Angelico <rosuav@gmail.com>
+Date:   Wed Feb 22 06:03:33 2017 +1100
+
+    Fix comment typo
+
+[33mcommit b174bd2dbd03586488435d6b944739d329f42da6[m
+Author: Chris Angelico <rosuav@gmail.com>
+Date:   Wed Feb 22 06:01:55 2017 +1100
+
+    Deduplicate runServer()
+
+[33mcommit 5bc770a535c65166e15f857adead4b4c1c6728ff[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 14:21:26 2016 -0500
+
+    closeServer
+
+[33mcommit 6e2c7b73ba0e858fc6aeadfe463d0b7aed6aaca4[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 12:25:22 2016 -0500
+
+    fix closeServer
+
+[33mcommit e021949837290122e3c485b77b1fbe19eb02bd5a[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 12:23:08 2016 -0500
+
+    update closeServer
+
+[33mcommit 987fcfad5f2bf2c40571ec9663693c6f54fc75c9[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 12:14:36 2016 -0500
+
+    add closeServer function
+
+[33mcommit 94f6acace91e2adbbd72ec897e76550eaafa948d[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 11:32:07 2016 -0500
+
+    remove mongoose ref
+
+[33mcommit 902ae4e242da94f2b883f4a50d063ee23f083b9c[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Dec 15 11:24:14 2016 -0500
+
+    runServer with promise
+
+[33mcommit 854d6fb9edc8f5b786463e16f2936e2ddbcf5f5e[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Thu Dec 15 11:06:35 2016 -0500
+
+    use beforeEach/afterEach
+
+[33mcommit f45f6e5bbc4f1a514f4dbd66cceecea5618494cc[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Thu Dec 15 10:50:24 2016 -0500
+
+    add comments and get rid of `done`
+
+[33mcommit 5c5e818f6f351f50474c4f906359cb37bff48979[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Wed Nov 30 18:26:48 2016 -0500
+
+    move `done` to right place
+
+[33mcommit 093b2b2305dbf81b870fa2d5079d1367925d2c0a[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Fri Nov 25 15:36:33 2016 -0500
+
+    update travis
+
+[33mcommit ff75155e2adde7be1881486d19e9502c804ffc19[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Fri Nov 25 15:33:42 2016 -0500
+
+    change heroku app name
+
+[33mcommit 729c413d25ccb3d88f6a0b654c428346758b4b22[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Fri Nov 25 15:22:35 2016 -0500
+
+    update travis
+
+[33mcommit 39b5dc4b0803f023b3304d57138a4223f168250e[m
+Author: Sally <sallystudent2017@gmail.com>
+Date:   Fri Nov 25 15:19:46 2016 -0500
+
+    setup heroku deploy
+
+[33mcommit a38c6a0435ae9c40cf8783323539961e821d6384[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Fri Nov 25 12:10:46 2016 -0500
+
+    added .travis.yml
+
+[33mcommit 41c7afef6b10e9bf9f9e54d0d4722c67705e8ba3[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Fri Nov 25 10:49:16 2016 -0500
+
+    cleanup test
+
+[33mcommit 048da74f0aef4ce6a01671c2316b58a649caa550[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 24 14:15:50 2016 -0500
+
+    comments
+
+[33mcommit f0a8488a2df773b5dffdd58f4b351db76446f26c[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 24 14:08:50 2016 -0500
+
+    update test
+
+[33mcommit 2f425e9160f26de76b300c2884f37665dae916d6[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 24 13:47:48 2016 -0500
+
+    update routes
+
+[33mcommit 5994e4969792f5cd49493058b9a55807d97c4f63[m
+Merge: 6b3d087 75e024c
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Wed Nov 23 23:36:58 2016 -0500
+
+    Merge branch 'feature/tests-checkpoint-1'
+
+[33mcommit 75e024c6013f176b8c7ecbf2f1cebb82b8f7f393[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Wed Nov 23 23:36:04 2016 -0500
+
+    cleanup
+
+[33mcommit de37e29f2253c8f9761de39c00e3f01b49fa5228[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 20:56:53 2016 -0500
+
+    post update
+
+[33mcommit 0b9077ec86337a0e62f4bcf0f66a09dcab1e8530[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 20:18:27 2016 -0500
+
+    export server and before/afterEach
+
+[33mcommit a3b644d88acbb05f82a6edf8c8ffadf4f22d8d89[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 20:08:27 2016 -0500
+
+    test each item in response
+
+[33mcommit d27d9c70f79211c16042529f4213b7b21d957a56[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 20:03:41 2016 -0500
+
+    assertions about object
+    
+    prove it has right keys
+
+[33mcommit f830b10904ac92bd5cb5edb1aa8905cf60ea8138[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 19:41:53 2016 -0500
+
+    test for json and array
+    
+    but still no tests for actual content of response
+
+[33mcommit a35cbbd03da4f24467c56facdb597aac15393e16[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 19:29:57 2016 -0500
+
+    test for 200 on get items passing
+
+[33mcommit 85fe8b0425a40d7c0a455ea86edb4ef00b3d7c0f[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:42:09 2016 -0500
+
+    imports and chai/chai http in tests
+
+[33mcommit 278cc241d4b930ed3fde38ed2c954d93f5daeb10[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:37:13 2016 -0500
+
+    add chai chai-http as dev dependencies
+
+[33mcommit ff9bf260356f948c2e4a62008bbe570b3c037642[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:34:31 2016 -0500
+
+    initial test stubs
+
+[33mcommit 806cef51db3e3c17007d4f4a2210ec30e9fd9b3d[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:34:14 2016 -0500
+
+    add npm test command
+
+[33mcommit b9acada36631b187d984758838cdc67005222e05[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:33:39 2016 -0500
+
+    fix indentation
+
+[33mcommit 3e072c17fc74ff1f957d82159ba4e73c0380bbd3[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 17 16:11:01 2016 -0500
+
+    add mocha as dev dependency
+
+[33mcommit 6b3d087ea3843ce325bda95c6aeed4c00b6f6542[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Fri Nov 11 13:54:13 2016 -0500
+
+    update comment
+
+[33mcommit d54e784b8f87840e8ed159c5e6de03375d456587[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Fri Nov 11 13:37:54 2016 -0500
+
+    revamp
+
+[33mcommit 01f3268cb16daee752889be35e372ba906999b90[m
+Merge: f11386e bac1ebc
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 12:38:01 2016 -0500
+
+    Merge branch 'hyperdev'
+
+[33mcommit bac1ebc8a42aa1dcdde8415c7ef1caa9020cf7a4[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 12:37:48 2016 -0500
+
+    update url
+
+[33mcommit d9b8f8a25ec0964de72d0b1be815b7f66b04c302[m
+Merge: ec78706 f11386e
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 12:27:36 2016 -0500
+
+    Merge branch 'master' into hyperdev
+
+[33mcommit f11386e91087d53b1804ea37301dfbdc5e911edd[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 12:27:19 2016 -0500
+
+    v5 working
+
+[33mcommit a9adf2939b87900c7c22a10ba765a6e404ea4959[m
+Merge: cfc2fa6 ec78706
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 09:16:21 2016 -0500
+
+    Merge branch 'hyperdev'
+
+[33mcommit ec787067001371a5335676eb60b3fa7ac6a28612[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Tue Nov 8 09:16:07 2016 -0500
+
+    in progress
+
+[33mcommit dd6a094232a1e3b9c0b996e2be5251d0778b2708[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 16:37:21 2016 -0400
+
+    separate shoppingList into sep. router
+
+[33mcommit 4a50b4e2c97263bf0cfd6717d59c6dcb0d8a12e2[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 16:26:38 2016 -0400
+
+    put updates working
+
+[33mcommit f6198df589bb246fc45fadfc8d10009b42577f42[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 12:52:07 2016 -0400
+
+    delete items working
+
+[33mcommit 42ab129111a51f4e1bb52bf2b1295c05f59a9625[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 12:51:44 2016 -0400
+
+    update .gitignore
+
+[33mcommit 45caf74e7a5d7cf698cc330311c7f028f6d28a8c[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 12:51:18 2016 -0400
+
+    update readme.md
+
+[33mcommit 26f4e6a90e364fd247c95998304dc8f869f11d0a[m
+Author: Benjamin White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 11:15:10 2016 -0400
+
+    add .gitignore
+
+[33mcommit b20134b727bc9dedd33853a213d63ae4c1133ddf[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 10:36:16 2016 -0400
+
+    v2 working
+
+[33mcommit cfc2fa695cae086e32777cecd263552713cd2585[m
+Author: Benjamin E White <benjamin.e.white1@gmail.com>
+Date:   Thu Nov 3 10:19:10 2016 -0400
+
+    Initial commit
